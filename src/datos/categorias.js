@@ -18,7 +18,7 @@ import data from './fotos';
 export default {
 	// Propiedad que contiene un arreglo de objetos.
 	categorias: [
-		// Caja objeto es una categoría con su info y el número de fotos
+		// Cada objeto es una categoría con su info y el número de fotos
 		{ 
 			id: 'america', 
 			nombre: 'America', 
